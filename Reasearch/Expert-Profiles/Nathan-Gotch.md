@@ -1,16 +1,5 @@
 # Nathan Gotch
 
-## Basic Information
-
-**Name:** Nathan Gotch
-
-**Primary Platforms:**
-- Website: https://gotchseo.com
-- YouTube: https://www.youtube.com/@NathanGotchSEO
-- LinkedIn: https://www.linkedin.com/in/nathangotch/
-
----
-
 ## Professional Background
 
 Nathan Gotch is the founder of Gotch SEO and is recognized for teaching practical SEO frameworks, content optimization strategies, and scalable organic growth systems. His content focuses on actionable implementation rather than theoretical concepts.
