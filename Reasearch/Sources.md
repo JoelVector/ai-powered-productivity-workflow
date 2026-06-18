@@ -10,6 +10,7 @@ The objective is to identify proven workflows, content strategies, AI-assisted p
 
 ## Selected Experts
 
+
 | Expert              | Primary Platform     | Focus Area             | Why Selected                                                            |
 | ------------------- | -------------------- | ---------------------- | ----------------------------------------------------------------------- |
 | Neil Patel          | YouTube, LinkedIn    | AI Content Marketing   | Publishes practical AI-assisted content strategies and SEO workflows    |
@@ -21,7 +22,8 @@ The objective is to identify proven workflows, content strategies, AI-assisted p
 | Koray Tugberk GUBUR | YouTube              | Semantic SEO           | Focuses on topical authority, semantic SEO, and content architecture    |
 | Ross Simmonds       | LinkedIn, Podcast    | Content Distribution   | Specializes in content amplification and AI-assisted content workflows  |
 | Kevin Indig         | LinkedIn, Newsletter | AI Search              | Covers AI search trends, enterprise SEO, and content strategy           |
-| Bernard Huang       | Clearscope, LinkedIn | Content Optimization   | Specializes in AI-assisted SEO content optimization and content quality |
+| Aleyda Solis        | SEOFOMO, LinkedIn    | Technical SEO & AI     | Specializes in Technical SEO, AI search optimization and organic growth |
+
 
 ---
 
@@ -31,10 +33,10 @@ Rather than selecting only the most popular SEO personalities, this research foc
 
 The selected experts represent a combination of:
 
-* Individual SEO practitioners
-* Enterprise SEO strategists
-* Content marketing operators
-* SEO software companies conducting original research
+- Individual SEO practitioners
+- Enterprise SEO strategists
+- Content marketing operators
+- SEO software companies conducting original research
 
 This combination provides both strategic and tactical perspectives on AI-powered SEO content production.
 
@@ -44,12 +46,12 @@ This combination provides both strategic and tactical perspectives on AI-powered
 
 Experts were selected based on:
 
-* Demonstrated experience in SEO content production
-* Active publishing of educational content
-* Practical implementation of AI-assisted workflows
-* Relevance to B2B SaaS growth
-* Consistent creation of high-signal content
-* Ability to provide actionable insights rather than generic advice
+- Demonstrated experience in SEO content production
+- Active publishing of educational content
+- Practical implementation of AI-assisted workflows
+- Relevance to B2B SaaS growth
+- Consistent creation of high-signal content
+- Ability to provide actionable insights rather than generic advice
 
 ---
 
@@ -57,12 +59,12 @@ Experts were selected based on:
 
 Through analysis of expert content, this project aims to identify:
 
-* AI-assisted content creation workflows
-* Keyword research methodologies
-* Content optimization frameworks
-* Content distribution strategies
-* Search intent analysis techniques
-* Semantic SEO best practices
-* Scalable content production systems
+- AI-assisted content creation workflows
+- Keyword research methodologies
+- Content optimization frameworks
+- Content distribution strategies
+- Search intent analysis techniques
+- Semantic SEO best practices
+- Scalable content production systems
 
 The final repository will serve as a structured knowledge base for understanding how successful practitioners leverage AI to improve SEO content production and organic growth.
