@@ -1,5 +1,3 @@
----
-
 # Expert 1 — Nathan Gotch
 
 ## Why He Is Relevant
